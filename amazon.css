@@ -1,0 +1,39 @@
+.background-image{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    
+}
+.content{
+    display: flex;
+    
+}
+#Search{
+   position: absolute;
+ text-align: center;
+  width: 350px;
+  le
+}
+.search-icon{
+   
+}
+
+.location{
+    position: relative ;
+    height: 4px;
+    right: 0px;
+    width: 100px;
+}
+.flag{
+    position: relative;
+    left: 500px;
+}
+.cart{
+    position: relative;
+  left: 995px;
+}
+.table{
+    grid-row: inherit;
+    grid-column: 7;
+}
